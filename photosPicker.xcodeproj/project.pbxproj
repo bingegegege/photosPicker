@@ -1119,7 +1119,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K33FB2TZV8;
-				GCC_PREFIX_HEADER = /Users/bingege/Desktop/photosPicker/photosPicker/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/photosPicker/PrefixHeader.pch";
 				INFOPLIST_FILE = photosPicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1143,7 +1143,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K33FB2TZV8;
-				GCC_PREFIX_HEADER = /Users/bingege/Desktop/photosPicker/photosPicker/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/photosPicker/PrefixHeader.pch";
 				INFOPLIST_FILE = photosPicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
